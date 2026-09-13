@@ -27,6 +27,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Listar directorio para depuración
+        run: ls -la
+
       - name: Verificar Existencia de Respuestas
         run: |
           if [ ! -f "respuestas_tp2.json" ]; then
