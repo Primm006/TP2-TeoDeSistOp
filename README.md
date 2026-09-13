@@ -4,7 +4,7 @@
 **Docente Responsable:** Ing. María Fernanda Vázquez  
 **Jefatura de Trabajos Prácticos:** Ing. Fabio D. Argañaraz  
 
-[![Autograding Tests - TP2](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP2/actions/workflows/classroom.yml/badge.svg)](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP2/actions/workflows/classroom.yml)
+[![Autograding Tests - TP2](https://github.com/Primm006/TP2-TeoDeSistOp/actions/workflows/classroom.yml/badge.svg)](https://github.com/Primm006/TP2-TeoDeSistOp/actions/workflows/classroom.yml)
 
 ---
 
